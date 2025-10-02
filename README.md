@@ -123,11 +123,6 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ab-testing-python.git
-Install dependencies:
-
-bash
-Copy code
 pip install -r requirements.txt
 Run the analysis notebook:
 
