@@ -1,5 +1,5 @@
-#**🧪 A/B Testing with Python – E-commerce Conversion Analysis**
-##**📊 Project Overview**
+**🧪 A/B Testing with Python – E-commerce Conversion Analysis**
+**📊 Project Overview**
 This project demonstrates a complete A/B testing workflow using Python, focusing on conversion rate optimization for an e-commerce website. The goal is to analyze whether a new website design improves conversion rates compared to the existing one, using real-world statistical methods and data analysis techniques.
 
 **📁 Dataset**
@@ -98,7 +98,7 @@ Monitor mobile conversion rates (25% lower than desktop)
 
 🌙 Feature Test – “Does dark mode reduce complaints?”
 
-#**🛠️ Technologies Used**
+**🛠️ Technologies Used**
 Python 🐍
 
 Pandas & NumPy – Data manipulation
@@ -109,7 +109,7 @@ Matplotlib – Visualization
 
 Jupyter Notebook – Analysis environment
 
-#**📁 Repository Structure**
+**📁 Repository Structure**
 python
 Copy code
 📂 AB-Testing-Project/
@@ -134,5 +134,5 @@ Run the analysis notebook:
 bash
 Copy code
 jupyter notebook analysis_notebook.ipynb
-#**📜 License**
+**📜 License**
 This project is licensed under the MIT License – feel free to use, modify, and share.
